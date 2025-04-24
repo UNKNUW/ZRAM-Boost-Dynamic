@@ -33,12 +33,12 @@
 ## **PERINGATAN**
 
 **GUNAKAN DENGAN BIJAK!**  
-Modul ini menyentuh bagian sensitif sistem.  
-Segala kerusakan, bootloop, atau ledakan ZRAM ditanggung pengguna sendiri.  
-Jangan lapor ke service center, apalagi ke **POLISI**  
-Lapor saja ke Grup DEVICE masing-masing 
+• Modul ini menyentuh bagian sensitif sistem.  
+Segala kerusakan, bootloop, atau ledakan ZRAM ditanggung pengguna sendiri.
+• Jangan lapor ke service center, apalagi ke **POLISI**  
+• Lapor saja ke Grup DEVICE masing-masing 
 
 ## Credit
 
 - Thanks to ORIGINAL idea: @DESIRE_TM
-- Modifikasi dinamis: **@UNKNUW X ChatGPT**
+- Modifikasi dinamis: [@unknuw](https://t.me/unknuw) x [ChatGPT](https://chat.openai.com/)
