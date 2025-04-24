@@ -19,16 +19,17 @@
 - Tidak perlu modifikasi kernel atau build ulang ROM
 - Fleksibel untuk pengguna dengan kebutuhan RAM berbeda
 - Optimal untuk perangkat low-end maupun flagship
-- Kompatibel dengan KernelSU (rootless & rooted)
+- Kompatibel dengan KernelSU / Magisk
+- Bisa instal via Recovery / (Rootless)
 
 ## Cara Instalasi
 
-1. Pastikan KernelSU sudah terpasang di perangkatmu
-2. Flash file ZIP ini via KernelSU Manager atau recovery
+1. Pastikan KernelSU / Magisk sudah terpasang di perangkatmu
+2. Flash file ZIP ini via KernelSU / Magisk Manager atau Recovery (Rootless)
 3. Saat instalasi, pilih ukuran ZRAM sesuai keinginan
 4. Reboot dan nikmati peningkatan performa
 
 ## Credit
 
-- Original idea: @DESIRE_TM
+- Thanks to ORIGINAL idea: @DESIRE_TM
 - Modifikasi dinamis: **@UNKNUW X ChatGPT**
