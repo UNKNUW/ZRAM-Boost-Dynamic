@@ -24,8 +24,8 @@
 
 ## Cara Instalasi
 
-1. Pastikan KernelSU / Magisk sudah terpasang di perangkatmu
-2. Flash file ZIP ini via KernelSU / Magisk Manager atau Recovery (Rootless)
+1. Pastikan KernelSU sudah terpasang di perangkatmu
+2. Flash file ZIP [**ini**](https://github.com/UNKNUW/ZRAM-Boost-Dynamic/releases/latest) via KernelSU Manager atau recovery
 3. Saat instalasi, pilih ukuran ZRAM sesuai keinginan
 4. Reboot dan nikmati peningkatan performa
 
