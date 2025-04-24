@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="300" alt="ZRAM Boost Dynamic Logo">
+</p>
+
 # ZRAM Boost Dynamic
 
 **ZRAM Boost Dynamic** adalah modul KernelSU yang memungkinkan pengguna memilih ukuran ZRAM (0GB–10GB) secara **interaktif saat instalasi**, untuk meningkatkan performa **multitasking dan gaming** di perangkat Android.
