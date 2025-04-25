@@ -24,7 +24,6 @@
 - Fleksibel untuk pengguna dengan kebutuhan RAM berbeda
 - Optimal untuk perangkat low-end maupun flagship
 - Kompatibel dengan KernelSU / Magisk
-- Bisa instal via Recovery / (Rootless)
 
 ## Cara Instalasi
 
